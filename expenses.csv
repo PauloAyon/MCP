@@ -1,0 +1,69 @@
+date,category,amount,payment_method
+2025-11-01,Food,12.50,cash
+2025-11-02,Transport,2.75,card
+2025-11-03,Utilities (water),30.00,transfer
+2025-11-05,Entertainment,15.00,card
+2025-11-07,Health,8.20,cash
+2025-11-10,Home,45.00,transfer
+2025-11-12,Food,23.40,card
+2025-11-15,Transport,3.10,cash
+2025-11-18,Education,20.00,card
+2025-11-20,Other,5.00,cash
+
+2025-09-01,Food,10.00,cash
+2025-09-02,Transport,2.50,card
+2025-09-03,Food,18.30,card
+2025-09-05,Utilities (electricity),28.00,transfer
+2025-09-07,Home,60.00,transfer
+2025-09-10,Entertainment,12.00,cash
+2025-09-12,Health,7.50,card
+2025-09-15,Education,30.00,transfer
+2025-09-18,Food,14.20,cash
+2025-09-20,Other,4.00,cash
+
+2025-10-01,Food,11.50,card
+2025-10-03,Transport,3.00,cash
+2025-10-04,Utilities (internet),25.00,transfer
+2025-10-06,Home,40.00,card
+2025-10-08,Entertainment,20.00,card
+2025-10-10,Health,9.80,cash
+2025-10-12,Food,22.00,card
+2025-10-15,Transport,3.40,debit
+2025-10-18,Education,15.00,transfer
+2025-10-20,Other,6.50,cash
+
+2025-11-21,Food,13.20,card
+2025-11-22,Transport,2.90,cash
+2025-11-23,Utilities (water),29.00,transfer
+2025-11-24,Entertainment,18.00,card
+2025-11-25,Health,12.00,cash
+2025-11-26,Home,55.00,transfer
+2025-11-27,Food,19.99,card
+2025-11-28,Transport,3.60,cash
+2025-11-29,Education,25.00,card
+2025-11-30,Other,7.00,cash
+
+2025-08-20,Food,9.50,cash
+2025-08-22,Transport,2.20,card
+2025-08-25,Utilities (gas),35.00,transfer
+2025-08-27,Entertainment,10.00,cash
+2025-08-30,Health,5.75,card
+
+2025-07-05,Home,70.00,transfer
+2025-07-10,Food,16.00,card
+2025-07-12,Transport,2.80,cash
+2025-07-15,Education,40.00,transfer
+2025-07-20,Other,3.50,cash
+
+2025-06-01,Food,8.60,cash
+2025-06-05,Utilities (electricity),27.00,transfer
+2025-06-10,Entertainment,14.00,card
+2025-06-15,Health,11.00,card
+2025-06-20,Home,48.00,transfer
+
+2025-05-03,Food,13.00,cash
+2025-05-08,Transport,2.45,card
+2025-05-12,Utilities (internet),22.00,transfer
+2025-05-18,Education,18.00,card
+2025-05-25,Other,2.00,cash
+2025-11-22,Food,10.00,cash
