@@ -67,3 +67,4 @@ date,category,amount,payment_method
 2025-05-18,Education,18.00,card
 2025-05-25,Other,2.00,cash
 2025-11-22,Food,10.00,cash
+2025-11-22,Food,25.00,card,
